@@ -6,5 +6,6 @@ public class Main {
         Scanner in=new Scanner (System.in);
         System.out.println("Мяу");
         int n=in.nextInt();
+        System.out.println(n);
     }
 }
